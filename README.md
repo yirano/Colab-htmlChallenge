@@ -1,15 +1,6 @@
-# Sprint Challenge: User Interface and Git
+# CoLab Challenge: User Interface and Git
 
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
-
-This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied semantic HTML, CSS fundamentals, git, and responsive design. In your challenge this week, you will demonstrate proficiency by creating a fully responsive website that has some missing HTML elements as well as CSS specificity problems that need to be solved.
-
-This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
-
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction. Your work reflects your proficiency in user interface and your command of the concepts and techniques in semantic HTML, CSS fundamentals, git, and responsive design.
-
-> You have **three hours** to complete this challenge. Plan your time accordingly.
-
+**Read these instructions carefully. Understand exactly what is expected _before_ starting this Challenge.**
 
 ## Introduction
 
@@ -17,18 +8,15 @@ In this challenge, you build a missing header (navigation and image) on the home
 
 In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version. 
 
- [Click here for home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
+ [Click here for home page example](https://vc-map-images.s3-us-west-1.amazonaws.com/logos/sprint-challenge-ui-home-example.png.png)
  
  [Click here for tablet example](design/Tablet.png)
 
 
 [Click here for mobile example](design/Mobile.png)
 
-### Commits
 
-Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and your team lead.
-
-## Self-Study Questions
+## Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
