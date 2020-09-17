@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. You will be working with a pre-existing web page, allowing you to get a taste of what it is like to inherit code from someone else, as will regularly happen on the job.
+In this challenge, you are taking over a project from a co-worker. His task was to build the website for a client(Lambda). You will create a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. Working with a pre-existing web page will allow you to understand what it is like to inherit code from someone else; this is regularly happening on the job.
 
 In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version. 
 
