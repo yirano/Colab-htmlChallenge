@@ -10,6 +10,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
  [Click here for home page example](https://vc-map-images.s3-us-west-1.amazonaws.com/logos/sprint-challenge-ui-home-example.png.png)
  
+ 
  [Click here for tablet example](design/Tablet.png)
 
 
@@ -17,8 +18,6 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 
 ## Questions
-
-Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
@@ -32,15 +31,13 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Define mobile-first design in your own words.
 
-You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
-
 ## Instructions
 
 ### Task 1: Project Set Up
 
 - [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [ ] Add your team lead(Jrive204) as collaborator on Github
+- [ ] Clone your OWN version of the repository
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
 - [ ] Push commits: git push origin `<firstName-lastName>`
@@ -75,12 +72,12 @@ In your solution, it is essential that you follow best practices and produce cle
 
 ### Task 3: Stretch Problems
 
-After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
+After finishing MVP, you can push your work further.
 
 * [ ] Make your design responsive such that it is accessible on tablet(800 px) and matches the [tablet](design/Tablet.png) wireframe.
 * [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
 * [ ] Introduce CSS animations to your site.
-* [ ] Build a contact page and create a form with several inputs of your choosing
+* [ ] Build a contact page and create a form with several inputs of your choosing (Doesn't need to submit)
 
 ## Resources
 
@@ -95,5 +92,5 @@ After finishing your required elements, you can push your work further. These go
 Follow these steps for completing your project.
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [ ] Add your team lead (Jrive204) as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master
