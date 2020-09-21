@@ -10,9 +10,9 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for home page example](https://vc-map-images.s3-us-west-1.amazonaws.com/logos/sprint-challenge-ui-home-example.png.png)
 
-[Click here for tablet example](design/Tablet.png)
+[Click here for tablet example](design/home/Tablet.png)
 
-[Click here for mobile example](design/Mobile.png)
+[Click here for mobile example](design/home/Mobile.png)
 
 ## Questions
 
@@ -49,7 +49,7 @@ Your finished project must include all of the following requirements:
 
 - [ ] Build the HTML and CSS to create the missing navigation and header
 - [ ] Link the `About` navigation item to an about.html page (you'll also need to create `about.html`)
-- [ ] Make your design responsive such that it is accessible on mobile(500px)and matches the [mobile](design/Mobile.png) wireframe.
+- [ ] Make your design responsive such that it is accessible on mobile(500px)and matches the [mobile](design/home/Mobile.png) wireframe.
 - [ ] Add responsive breakpoints to your code by using media queries
 
 You will also notice there are 10 boxes on the home page that need background colors. Use this list below to correctly style each box:
@@ -71,7 +71,7 @@ In your solution, it is essential that you follow best practices and produce cle
 
 After finishing MVP, you can push your work further.
 
-- [ ] Make your design responsive such that it is accessible on tablet(800 px) and matches the [tablet](design/Tablet.png) wireframe.
+- [ ] Make your design responsive such that it is accessible on tablet(800 px) and matches the [tablet](design/home/Tablet.png) wireframe.
 - [ ] Build the about page based on the design your UX developer has provided. [Review the provided design files](/design)
 - [ ] Build a page of your choosing from the navigation items. Come up with content and images that fit the theme.
 - [ ] Introduce CSS animations to your site.
