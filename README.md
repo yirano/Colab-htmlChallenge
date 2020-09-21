@@ -4,11 +4,11 @@
 
 ## Introduction
 
-In this challenge, you are taking over a project from a co-worker. His task was to build the website for a client(Lambda). You will create a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. Working with a pre-existing web page will allow you to understand what it is like to inherit code from someone else; this is regularly happening on the job.
+In this challenge, you are taking over a project from a co-worker. His task was to build the website for a client. You will create a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. Working with a pre-existing web page will allow you to understand what it is like to inherit code from someone else; this is regularly happening on the job.
 
 In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version.
 
-[Click here for home page example](https://vc-map-images.s3-us-west-1.amazonaws.com/logos/sprint-challenge-ui-home-example.png.png)
+[Click here for home page example](https://vc-map-images.s3-us-west-1.amazonaws.com/Desktop.png)
 
 [Click here for tablet example](design/home/Tablet.png)
 
