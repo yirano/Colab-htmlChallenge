@@ -17,9 +17,10 @@
 
 
 
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Challenge.**
 
 ## Introduction
+**Read these instructions carefully. Understand exactly what is expected _before_ starting this Challenge.**
+
 
 In this challenge, you are taking over a project from a co-worker. His task was to build the website for a client. You will create a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. Working with a pre-existing web page will allow you to understand what it is like to inherit code from someone else; this is regularly happening on the job.
 
