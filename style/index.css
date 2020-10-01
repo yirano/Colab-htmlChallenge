@@ -380,7 +380,8 @@ footer nav a {
 
 @media only screen and (max-width: 500px) {
 	.top-header,
-	.top-header * {
+	.top-header *,
+	nav {
 		flex-direction: column;
 		text-align: center;
 		align-items: center;
