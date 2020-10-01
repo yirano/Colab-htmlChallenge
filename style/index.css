@@ -158,6 +158,12 @@ a {
 	color: #000;
 }
 
+img {
+	width: 100%;
+}
+
+/* index */
+
 header {
 	display: flex;
 	flex-direction: column;
@@ -199,7 +205,8 @@ nav ul {
 	border-bottom: 1px dashed black;
 }
 
-.top-content .text-container {
+.top-content .text-container,
+.text-container-stretch {
 	width: 48%;
 	padding: 0 1%;
 	padding-bottom: 20px;
@@ -275,6 +282,38 @@ nav ul {
 
 .bottom-content .text-container:last-child {
 	padding-right: 0;
+}
+
+/* About Page */
+
+.text-container-stretch {
+	width: 100%;
+}
+
+.about-middle-content {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.about-content {
+	width: 23rem;
+	min-width: 300px;
+	border-bottom: 1px dashed black;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+}
+
+.about-content > * {
+	padding: 2% 0;
+}
+
+.about-content button {
+	background: #fff;
+	padding: 7px 17px;
+	border: 2px solid #000;
+	border-radius: 8px;
 }
 
 footer {
