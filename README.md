@@ -1,5 +1,19 @@
 # CoLab Challenge: User Interface and Git
 
+## Questions
+
+1. If you were to describe semantic HTML to students, what would you say?
+
+2. What are the 4 areas of the box model?
+
+3. While using flexbox, what axis does the following property work on: `align-items: center`?
+
+4. Explain why git is valuable to a team of developers.
+
+5. Define mobile-first design in your own words.
+
+
+
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Challenge.**
 
 ## Introduction
@@ -14,19 +28,6 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for mobile example](design/home/Mobile.png)
 
-## Questions
-
-Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
-
-1. If you were to describe semantic HTML to students, what would you say?
-
-2. What are the 4 areas of the box model?
-
-3. While using flexbox, what axis does the following property work on: `align-items: center`?
-
-4. Explain why git is valuable to a team of developers.
-
-5. Define mobile-first design in your own words.
 
 ## Instructions
 
