@@ -341,10 +341,10 @@ footer nav a {
 	}
 	.container {
 		width: 100%;
-		padding: 0 1rem;
 	}
 	.top-content {
 		flex-direction: column;
+		padding: 0 1rem;
 	}
 	.top-content .text-container {
 		width: inherit;
