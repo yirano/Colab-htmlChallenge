@@ -158,6 +158,12 @@ a {
 	color: #000;
 }
 
+img {
+	width: 100%;
+}
+
+/* index */
+
 header {
 	display: flex;
 	flex-direction: column;
@@ -199,7 +205,8 @@ nav ul {
 	border-bottom: 1px dashed black;
 }
 
-.top-content .text-container {
+.top-content .text-container,
+.text-container-stretch {
 	width: 48%;
 	padding: 0 1%;
 	padding-bottom: 20px;
@@ -277,6 +284,38 @@ nav ul {
 	padding-right: 0;
 }
 
+/* About Page */
+
+.text-container-stretch {
+	width: 100%;
+}
+
+.about-middle-content {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.about-content {
+	width: 23rem;
+	min-width: 300px;
+	border-bottom: 1px dashed black;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+}
+
+.about-content > * {
+	padding: 2% 0;
+}
+
+.about-content button {
+	background: #fff;
+	padding: 7px 17px;
+	border: 2px solid #000;
+	border-radius: 8px;
+}
+
 footer {
 	width: 100%;
 	background: black;
@@ -294,4 +333,62 @@ footer nav {
 footer nav a {
 	color: white;
 	text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+	.top-header {
+		width: 100%;
+	}
+	.container {
+		width: 100%;
+	}
+	.top-content {
+		flex-direction: column;
+		padding: 0 1rem;
+	}
+	.top-content .text-container {
+		width: inherit;
+	}
+
+	.middle-content .boxes {
+		justify-content: center;
+		flex-wrap: wrap;
+		margin: 0 15%;
+	}
+
+	.middle-content .boxes .box {
+		width: 160px;
+		height: 160px;
+		margin: 10px 3.5%;
+	}
+
+	.bottom-content {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.bottom-content .text-container {
+		min-width: 13rem;
+		width: 21rem;
+		margin: 1%;
+	}
+
+	footer * {
+		margin: auto;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.top-header,
+	.top-header *,
+	nav {
+		flex-direction: column;
+		text-align: center;
+		align-items: center;
+		font-size: 1rem;
+		line-height: 1.8rem;
+	}
+	.logo {
+		width: 10rem;
+	}
 }
